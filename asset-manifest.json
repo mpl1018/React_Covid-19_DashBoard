@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_Covid-19_DashBoard/static/css/main.c60e7cf7.chunk.css",
+    "main.js": "/React_Covid-19_DashBoard/static/js/main.b398ed61.chunk.js",
+    "main.js.map": "/React_Covid-19_DashBoard/static/js/main.b398ed61.chunk.js.map",
+    "runtime-main.js": "/React_Covid-19_DashBoard/static/js/runtime-main.d0b900b4.js",
+    "runtime-main.js.map": "/React_Covid-19_DashBoard/static/js/runtime-main.d0b900b4.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/React_Covid-19_DashBoard/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a5c5064b.chunk.js": "/React_Covid-19_DashBoard/static/js/2.a5c5064b.chunk.js",
+    "static/js/2.a5c5064b.chunk.js.map": "/React_Covid-19_DashBoard/static/js/2.a5c5064b.chunk.js.map",
+    "index.html": "/React_Covid-19_DashBoard/index.html",
+    "precache-manifest.1e0f3d1063b58c0101f0dd389250608c.js": "/React_Covid-19_DashBoard/precache-manifest.1e0f3d1063b58c0101f0dd389250608c.js",
+    "service-worker.js": "/React_Covid-19_DashBoard/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/React_Covid-19_DashBoard/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.c60e7cf7.chunk.css.map": "/React_Covid-19_DashBoard/static/css/main.c60e7cf7.chunk.css.map",
+    "static/js/2.a5c5064b.chunk.js.LICENSE.txt": "/React_Covid-19_DashBoard/static/js/2.a5c5064b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0b900b4.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a5c5064b.chunk.js",
+    "static/css/main.c60e7cf7.chunk.css",
+    "static/js/main.b398ed61.chunk.js"
+  ]
+}
